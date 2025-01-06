@@ -37,4 +37,4 @@ if st.button("Generate"):
 # 顯示對話記錄
 st.markdown("### Conversation History:")
 st.write("\n".join(st.session_state.chat_history))
-###111111
+
